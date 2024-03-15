@@ -1,0 +1,13 @@
+{
+   "editor.wordWrapColumn": 180,
+   "editor.wordWrap": "on",
+   "prettier.printWidth": 1800,
+   "prettier.disable": true,
+   "json.format.enable": true,
+   "json.schemas": [],
+   "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+   "editor.formatOnSave": true,
+   "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+   }
+}
